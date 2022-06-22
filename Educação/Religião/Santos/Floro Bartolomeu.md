@@ -1,0 +1,1 @@
+1. Médico e político, que foi ao Juazeiro interessado numa mina de cobre, mas acabou morando lá e abriu uma farmácia; também tornou-se amigo do pe. Cícero.

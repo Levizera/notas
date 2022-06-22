@@ -1,0 +1,4 @@
+1. Deve-se obter uma maior amplitude da linguagem, pois será por meio dela que você irá ter maior clareza sobre os fatos.
+2. A pobreza da linguagem leva a uma obscuridade sobre seus sentimentos; não saber como explicar o que ele está sentindo. 
+3. Adaptar-se à conduta de um grupo não te torna alguém "normal". A busca por parecer normal é neurotizante. 
+4. A busca por adaptar-se às normas de certos grupos é um processo de desconhecer a si mesmo, pois você ignora quem você é, e foca somente nos aspectos similares ao grupo ao qual você deseja se adaptar. Todo esse processo desenvolve, de fato, uma neurose, pois você vai pular de grupo em grupo, desconhecendo cada vez mais a si mesmo e entrando numa névoa mais profunda sobre quem você é e o que está sentindo.  
