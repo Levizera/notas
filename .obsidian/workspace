@@ -1,0 +1,86 @@
+{
+  "main": {
+    "id": "032f15ba1aedc1a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c1200fe2cc62a09",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "História/Idade Média/Conteúdo/Roma/ROMA - a fundação.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a937413b086e36ef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e3a58760f0dc49b3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "830bad917de3fd32",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4afc99bc1a898f31",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eab31efc6c237cda",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "História/Idade Média/Conteúdo/Roma/ROMA - a fundação.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2c1200fe2cc62a09",
+  "lastOpenFiles": [
+    "História/Idade Média/Conteúdo/Roma/ROMA - a fundação.md",
+    "História/Idade Média/Conteúdo/Roma/Roma Antiga.md",
+    "História/Idade Média/Conteúdo/Idade Média - Coluna.md",
+    "História/Idade Média/Conteúdo/Povos Bárbaros.md",
+    "História/Idade Média/Conteúdo/Notas avulsas.md",
+    "História/Idade Média/Conteúdo/As Cruzadas.md",
+    "Educação/Estudos/Como estudar meditando.md",
+    "História/Idade Média/Material/Moyen Âge.pdf"
+  ]
+}
