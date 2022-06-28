@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "useMarkdownLinks": false,
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "promptDelete": false
 }
