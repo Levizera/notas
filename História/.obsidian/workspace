@@ -1,25 +1,29 @@
 {
   "main": {
-    "id": "032f15ba1aedc1a3",
+    "id": "b39d92b255e735d7",
     "type": "split",
     "children": [
       {
-        "id": "2c1200fe2cc62a09",
+        "id": "ef4389344c16e151",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Idade Média/Idade Média - Coluna.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a937413b086e36ef",
+    "id": "ada314fe723fd594",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e3a58760f0dc49b3",
+        "id": "ca4178b059d5816b",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -27,7 +31,7 @@
         }
       },
       {
-        "id": "830bad917de3fd32",
+        "id": "0d20ac4479411716",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -45,15 +49,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "4afc99bc1a898f31",
+    "id": "ba68002bdd0533ac",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "eab31efc6c237cda",
+        "id": "1d4d4dc323fe0dbd",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Idade Média/Idade Média - Coluna.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -67,17 +72,14 @@
     ],
     "currentTab": 0
   },
-  "active": "2c1200fe2cc62a09",
+  "active": "ef4389344c16e151",
   "lastOpenFiles": [
-    "Poemas/Soneto 116.md",
-    "Poemas/Shakespeare.md",
-    "Poemas/Poesia.md",
-    "História/Idade Média/Conteúdo/Peste Negra.md",
-    "História/Idade Média/Conteúdo/Idade Média - Coluna.md",
-    "Tópicos/Nova Ordem Mundial/Estudos/Nova ordem mundial - pe. Paulo Ricardo.md",
-    "Educação/Estudos/Estudos - Olavo de Carvalho.md",
-    "Educação/Estudos/Escrita e leitura.md",
-    "História/Idade Média/Conteúdo/Roma Antiga.md",
-    "História/Idade Média/Conteúdo/Roma/ROMA - a fundação.md"
+    "Idade Média/Idade Média - Coluna.md",
+    "Idade Média/Roma Antiga.md",
+    "Idade Média/Itália Primitiva/00 - Itália Medieval - O começo.md",
+    "Idade Média/Peste Negra.md",
+    "História do Brasil/Descobrimento, Eduardo Bueno.md",
+    "Idade Média/Notas avulsas.md",
+    "Idade Média/As Cruzadas.md"
   ]
 }

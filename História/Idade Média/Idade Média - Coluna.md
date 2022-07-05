@@ -4,7 +4,7 @@ A Idade Média começa no século V com a queda do [[Roma Antiga|Império romano
 Costuma ser subdividida em três períodos: 
 	1. [[Alta Idade Média]], séc. V ao X;
 	2. Idade Média central, séc Xi ao XIII;
-	3. Idade Média tardia, séc. XIV ao XV.
+	3. Baixa Idade Média, séc. XIV ao XV.
 
 ## Reinos bárbaros
 Com a desurbanização e as imigrações da [[Alta Idade Média]], os bárbaros conseguiram construir seus impérios onde era a [[Roma Antiga]]. 
@@ -15,7 +15,7 @@ O papa era a figura de maior poder na Idade Média.
 Até o início do século VIII quase todos os reinos eram cristãos, menos os [[Vikings]]. 
 
 ### Nova religião - os mulçumanos
-Apartir do ano 711 uma horda de [[Mouros]] começaram a invadir a Península Ibérica, conquistando tudo, até mesmo o [[Reino Franco]]. Foi o General Carlos Martel quem conseguiu parar essas invasões, na [[Batalha de Poitiers]], em 732.
+Apartir do ano 711 d.C uma horda de [[Mouros]] começaram a invadir a Península Ibérica, conquistando tudo, até mesmo o [[Reino Franco]]. Foi o General Carlos Martel quem conseguiu parar essas invasões, na [[Batalha de Poitiers]], em 732.
 
 ## Paz na Europa
 Quando a Europa começou a ter paz, os reinos começaram a se expandir política e economicamente, criando o [[Feudalismo]]. 

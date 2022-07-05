@@ -4,5 +4,6 @@
   "useMarkdownLinks": false,
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "./",
-  "promptDelete": false
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical"
 }
