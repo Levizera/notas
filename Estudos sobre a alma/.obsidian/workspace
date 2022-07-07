@@ -1,0 +1,80 @@
+{
+  "main": {
+    "id": "9a1b1624ad71b704",
+    "type": "split",
+    "children": [
+      {
+        "id": "a91905b7c65f80d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 - O que é a Alma?/O que é a alma? - Luiz Felipe Pondé.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b5dbdd55356a10f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "efa355f31f6795c8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "8236d79cb7277d62",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2ff87d4b66866e58",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a210a61611a70585",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00 - O que é a Alma?/O que é a alma? - Luiz Felipe Pondé.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a91905b7c65f80d2",
+  "lastOpenFiles": [
+    "00 - O que é a Alma?/O que é a alma? - Luiz Felipe Pondé.md",
+    "00 - O que é a Alma?/O que é a alma? - Prof. Felipe Aquino.md"
+  ]
+}
