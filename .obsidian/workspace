@@ -7,8 +7,12 @@
         "id": "2c1200fe2cc62a09",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Coisas para estudar - áreas de interesse.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -54,6 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Coisas para estudar - áreas de interesse.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -69,15 +74,15 @@
   },
   "active": "2c1200fe2cc62a09",
   "lastOpenFiles": [
+    "Coisas para estudar - áreas de interesse.md",
+    "História/Idade Média/Idade Média - Coluna.md",
+    "Tópicos/Se podemos pedir diretamente a Deus, por que pedir a intercessão dos Santos?.md",
+    "Tópicos/Familia.md",
+    "Tópicos/Estudo da história.md",
     "Poemas/Soneto 116.md",
     "Poemas/Shakespeare.md",
     "Poemas/Poesia.md",
     "História/Idade Média/Conteúdo/Peste Negra.md",
-    "História/Idade Média/Conteúdo/Idade Média - Coluna.md",
-    "Tópicos/Nova Ordem Mundial/Estudos/Nova ordem mundial - pe. Paulo Ricardo.md",
-    "Educação/Estudos/Estudos - Olavo de Carvalho.md",
-    "Educação/Estudos/Escrita e leitura.md",
-    "História/Idade Média/Conteúdo/Roma Antiga.md",
-    "História/Idade Média/Conteúdo/Roma/ROMA - a fundação.md"
+    "História/Idade Média/Conteúdo/Idade Média - Coluna.md"
   ]
 }
