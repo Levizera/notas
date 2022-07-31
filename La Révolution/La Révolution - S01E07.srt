@@ -1,0 +1,1751 @@
+﻿1
+00:00:06,500 --> 00:00:08,500
+<i>[musique douce]</i>
+
+2
+00:00:13,208 --> 00:00:16,666
+<i>[Madeleine]</i><span style="style2"> Les signes de Dieu,</i>
+<span style="style2">comme du Diable, sont tout autour de toi.</i>
+
+3
+00:00:17,458 --> 00:00:19,958
+<i>Il te suffit d'ouvrir les yeux</i>
+<i>pour les voir.</i>
+
+4
+00:00:21,541 --> 00:00:22,958
+<i>Ils hantent nos vies,</i>
+
+5
+00:00:23,291 --> 00:00:24,833
+<i>ils peuplent tes rêves,</i>
+
+6
+00:00:25,125 --> 00:00:26,666
+<i>colorent nos cauchemars.</i>
+
+7
+00:00:27,916 --> 00:00:31,208
+<i>Ce sont les signes qu'il y a quelque chose</i>
+<i>de plus grand que nous.</i>
+
+8
+00:00:31,541 --> 00:00:34,083
+<i>Une lumière et une ombre</i>
+<i>par-delà le visible,</i>
+
+9
+00:00:34,458 --> 00:00:35,875
+<i>par-delà l'univers,</i>
+
+10
+00:00:36,291 --> 00:00:37,875
+<i>au-delà de la vie elle-même.</i>
+
+11
+00:00:39,833 --> 00:00:41,000
+<i>Cette année-là,</i>
+
+12
+00:00:41,583 --> 00:00:43,041
+<i>plus que nulle autre,</i>
+
+13
+00:00:43,375 --> 00:00:45,083
+<i>les signes étaient déjà là.</i>
+
+14
+00:00:46,500 --> 00:00:48,958
+<i>Et parmi ceux qui ont refusé de les voir,</i>
+
+15
+00:00:49,166 --> 00:00:50,083
+<i>crois-moi,</i>
+
+16
+00:00:50,375 --> 00:00:51,666
+<i>aucun n'a survécu.</i>
+
+17
+00:01:09,791 --> 00:01:11,791
+<i>[respiration tremblante]</i>
+
+18
+00:01:26,083 --> 00:01:26,958
+<i>[claquement de porte]</i>
+
+19
+00:01:27,041 --> 00:01:28,666
+<i>[pas à l'approche]</i>
+
+20
+00:01:31,250 --> 00:01:32,416
+<i>Élise, fais pas ça.</i>
+
+21
+00:01:35,875 --> 00:01:37,625
+<i>T'as aucune idée</i>
+<i>de ce qu'est le sang bleu.</i>
+
+22
+00:01:38,708 --> 00:01:41,958
+<i>[Albert] C'est ce qui m'est arrivé.</i>
+<i>Tu veux savoir ce qui va se passer ?</i>
+
+23
+00:01:43,875 --> 00:01:45,291
+<i>Quand tu vas te réveiller,</i>
+
+24
+00:01:46,500 --> 00:01:49,500
+<i>la première chose que tu sentiras,</i>
+<i>c'est le froid glacial dans tes veines.</i>
+
+25
+00:01:51,833 --> 00:01:53,166
+<i>Et puis, tu auras faim.</i>
+
+26
+00:01:55,166 --> 00:01:56,500
+<i>Je sais que tu es forte,</i>
+
+27
+00:01:57,375 --> 00:01:58,666
+<i>mais la faim va grandir.</i>
+
+28
+00:02:00,708 --> 00:02:02,333
+<i>Et elle grignotera tes pensées.</i>
+
+29
+00:02:03,041 --> 00:02:03,875
+<i>Ta volonté.</i>
+
+30
+00:02:06,083 --> 00:02:08,458
+<i>Si tu as de la chance,</i>
+<i>tu pourras te maîtriser.</i>
+
+31
+00:02:10,416 --> 00:02:12,000
+<i>Mais un jour, tu n'y arriveras plus.</i>
+
+32
+00:02:14,125 --> 00:02:15,833
+<i>La faim sera plus forte que toi.</i>
+
+33
+00:02:17,666 --> 00:02:20,416
+<i>Ce jour-là, tous ceux</i>
+<i>qui partagent ton chemin seront en danger.</i>
+
+34
+00:02:20,833 --> 00:02:22,208
+<i>Tu comprends ce que ça veut dire ?</i>
+
+35
+00:02:22,875 --> 00:02:24,791
+<i>Tu pourras plus veiller sur Madeleine.</i>
+
+36
+00:02:26,791 --> 00:02:28,458
+<i>Tu pourras plus jamais aimer, Élise.</i>
+
+37
+00:02:29,208 --> 00:02:30,125
+<i>Personne.</i>
+
+38
+00:02:33,166 --> 00:02:35,916
+<i>[Albert] Tout ce que tu auras à offrir</i>
+<i>est une promesse de mort.</i>
+
+39
+00:02:36,791 --> 00:02:39,666
+<i>[respire difficilement]</i>
+
+40
+00:02:46,375 --> 00:02:48,375
+<i>[Élise pleure]</i>
+
+41
+00:02:54,416 --> 00:02:57,458
+<i>[hurlements]</i>
+
+42
+00:03:07,958 --> 00:03:09,958
+<i>[Katell halète]</i>
+
+43
+00:03:16,458 --> 00:03:18,458
+<i>[musique angoissante]</i>
+
+44
+00:03:20,791 --> 00:03:22,250
+<i>[Katell gémit]</i>
+
+45
+00:03:45,291 --> 00:03:46,625
+<i>[crie]</i>
+
+46
+00:03:47,458 --> 00:03:48,291
+<i>[Marie] Henri !</i>
+
+47
+00:03:50,750 --> 00:03:51,791
+<i>[Marie] Qu'est-ce que...</i>
+
+48
+00:03:51,875 --> 00:03:53,208
+<i>Non !</i>
+
+49
+00:03:57,125 --> 00:03:58,041
+<i>[Marie] Non !</i>
+
+50
+00:03:58,583 --> 00:03:59,583
+<i>Arrêtez !</i>
+
+51
+00:04:00,708 --> 00:04:01,958
+<i>Oka, non !</i>
+
+52
+00:04:02,375 --> 00:04:04,166
+<i>[Joseph] Ne fais pas ça.</i>
+<i>On a besoin d'elle !</i>
+
+53
+00:04:04,708 --> 00:04:06,708
+<i>[Katell] Je la tiens ! Aide-moi !</i>
+
+54
+00:04:17,625 --> 00:04:20,041
+<i>[Charles] Donatien !</i>
+<i>Viens ici tout de suite !</i>
+
+55
+00:04:20,750 --> 00:04:22,916
+<i>- [homme] Pitié...</i>
+<i>- [Charles] Donatien !</i>
+
+56
+00:04:23,000 --> 00:04:25,208
+<i>[homme] Je vous le jure,</i>
+<i>je n'ai rien pu faire.</i>
+
+57
+00:04:25,625 --> 00:04:27,083
+<i>[Donatien] Oui, Papa.</i>
+
+58
+00:04:27,625 --> 00:04:29,375
+<i>Que se passe-t-il encore ?</i>
+
+59
+00:04:38,125 --> 00:04:39,291
+<i>Où est ma sœur ?</i>
+
+60
+00:04:48,416 --> 00:04:50,083
+<i>Où est ma sœur ?</i>
+
+61
+00:04:52,416 --> 00:04:53,375
+<i>Je ne sais pas.</i>
+
+62
+00:05:02,375 --> 00:05:04,625
+<i>[Donatien] Convoquez la maréchaussée</i>
+<i>tout de suite.</i>
+
+63
+00:05:08,958 --> 00:05:10,625
+<i>[murmures] C'est Marie de Montargis.</i>
+
+64
+00:05:10,958 --> 00:05:12,750
+<i>[homme] Elle a l'air malade.</i>
+
+65
+00:05:13,791 --> 00:05:15,250
+<i>[Marie Gémit]</i>
+
+66
+00:05:25,833 --> 00:05:26,916
+<i>[Marie gémit]</i>
+
+67
+00:05:37,583 --> 00:05:38,916
+<i>Qu'est-ce qui lui est arrivé ?</i>
+
+68
+00:05:39,000 --> 00:05:41,291
+<i>Cette femme est malade.</i>
+<i>Elle est sous ma responsabilité.</i>
+
+69
+00:05:42,125 --> 00:05:44,541
+<i>[Joseph] Je dois la mettre à l'écart</i>
+<i>pour comprendre.</i>
+
+70
+00:05:53,833 --> 00:05:55,166
+<i>[Joseph] Laisse-moi regarder.</i>
+
+71
+00:05:59,958 --> 00:06:00,958
+<i>Là, tu as mal ?</i>
+
+72
+00:06:01,541 --> 00:06:02,375
+<i>Non.</i>
+
+73
+00:06:12,208 --> 00:06:14,416
+<i>Tu ferais quoi</i>
+<i>si je devenais une sang-bleu ?</i>
+
+74
+00:06:16,958 --> 00:06:19,250
+<i>[Marianne] Si j'ai bien compris,</i>
+<i>il faudrait couper ta tête.</i>
+
+75
+00:06:20,750 --> 00:06:22,708
+<i>C'est ça, non ? La seule solution.</i>
+
+76
+00:06:23,833 --> 00:06:25,291
+<i>[Marianne] Selon Albert.</i>
+
+77
+00:06:27,250 --> 00:06:30,375
+<i>Mes hommes ont peur et je n'ai rien</i>
+<i>à leur dire pour les rassurer.</i>
+
+78
+00:06:31,166 --> 00:06:33,166
+<i>Je peux savoir</i>
+<i>ce que vous voulez faire avec elle ?</i>
+
+79
+00:06:33,875 --> 00:06:34,750
+<i>L'étudier.</i>
+
+80
+00:06:35,708 --> 00:06:38,375
+<i>Elle est dans la première phase,</i>
+<i>c'est la plus virulente.</i>
+
+81
+00:06:41,291 --> 00:06:42,125
+<i>T'en penses quoi ?</i>
+
+82
+00:06:44,833 --> 00:06:46,541
+<i>- Laisse-nous du temps.</i>
+<i>- Deux jours.</i>
+
+83
+00:06:47,250 --> 00:06:48,125
+<i>Pas plus.</i>
+
+84
+00:06:48,833 --> 00:06:51,750
+<i>Ensuite, la tête de Marie</i>
+<i>ira rejoindre celle de son oncle.</i>
+
+85
+00:06:51,916 --> 00:06:54,958
+<i>Si l'épidémie se propage, on pourra pas</i>
+<i>couper la tête de tous les malades.</i>
+
+86
+00:06:55,041 --> 00:06:57,416
+<i>- Pourquoi pas ?</i>
+<i>- [Joseph] On n'a pas assez de couteaux.</i>
+
+87
+00:06:57,500 --> 00:06:59,458
+<i>Il paraît que tu es ingénieux,</i>
+<i>Joseph Guillotin.</i>
+
+88
+00:06:59,541 --> 00:07:01,000
+<i>[Joseph] Mais je suis pas boucher.</i>
+
+89
+00:07:11,583 --> 00:07:12,916
+<i>[Katell] Ça fait pas mal.</i>
+
+90
+00:07:15,625 --> 00:07:16,750
+<i>[Joseph] Serre ton poing.</i>
+
+91
+00:07:24,041 --> 00:07:25,041
+<i>Serre fort.</i>
+
+92
+00:07:25,708 --> 00:07:26,541
+<i>Là.</i>
+
+93
+00:07:29,166 --> 00:07:30,000
+<i>Voilà.</i>
+
+94
+00:07:41,000 --> 00:07:42,291
+<i>Qu'est-ce que vous faites ?</i>
+
+95
+00:07:44,583 --> 00:07:46,625
+<i>Oh, je te parle.</i>
+<i>Pourquoi tu veux notre sang ?</i>
+
+96
+00:07:47,333 --> 00:07:48,416
+<i>On vérifie.</i>
+
+97
+00:07:49,541 --> 00:07:50,541
+<i>[Jean] Quoi ?</i>
+
+98
+00:07:51,000 --> 00:07:52,958
+<i>Que l'un d'entre nous est immunisé.</i>
+
+99
+00:07:55,541 --> 00:07:56,458
+<i>En français ?</i>
+
+100
+00:07:57,958 --> 00:08:00,791
+<i>[Katell] Si ton sang résiste à la maladie,</i>
+<i>t'es immunisé.</i>
+
+101
+00:08:01,208 --> 00:08:02,916
+<i>[Joseph] Et qu'avec, on peut la combattre.</i>
+
+102
+00:08:03,541 --> 00:08:06,458
+<i>Et qu'en théorie,</i>
+<i>on pourrait trouver comment la guérir.</i>
+
+103
+00:08:06,541 --> 00:08:08,041
+<i>[Jean] Ça peut marcher ?</i>
+
+104
+00:08:08,125 --> 00:08:09,625
+<i>[Joseph] On verra bientôt. Suivant !</i>
+
+105
+00:08:26,250 --> 00:08:27,125
+<i>[Élise] Non,</i>
+
+106
+00:08:27,208 --> 00:08:28,416
+<i>je peux pas rester ici.</i>
+
+107
+00:08:29,250 --> 00:08:31,250
+<i>[Albert] Faut qu'on attende la nuit</i>
+<i>pour rentrer.</i>
+
+108
+00:08:31,875 --> 00:08:33,916
+<i>[Élise] J'ai pas l'intention</i>
+<i>de rentrer au campement.</i>
+
+109
+00:08:34,291 --> 00:08:35,541
+<i>Je retourne au château.</i>
+
+110
+00:08:38,000 --> 00:08:39,625
+<i>Seule, t'as aucune chance.</i>
+
+111
+00:08:40,041 --> 00:08:40,958
+<i>Je vais me rendre.</i>
+
+112
+00:08:41,041 --> 00:08:42,958
+<i>- J'accepte leurs conditions.</i>
+<i>- Non !</i>
+
+113
+00:08:43,041 --> 00:08:44,666
+<i>Je te laisserai pas risquer ta vie.</i>
+
+114
+00:08:45,333 --> 00:08:46,833
+<i>Depuis quand ça te préoccupe ?</i>
+
+115
+00:08:48,416 --> 00:08:50,166
+<i>Marianne a fait la promesse</i>
+<i>de te soutenir.</i>
+
+116
+00:08:50,250 --> 00:08:53,250
+<i>Vous avez une chance de renverser</i>
+<i>ton cousin et d'arrêter le sang bleu.</i>
+
+117
+00:08:53,791 --> 00:08:55,375
+<i>Tu sais de quoi Donatien est capable.</i>
+
+118
+00:08:55,458 --> 00:08:57,125
+<i>Et je peux pas laisser Madeleine avec lui.</i>
+
+119
+00:08:57,208 --> 00:08:59,708
+<i>Si on n'arrête pas cette épidémie,</i>
+<i>y aura des milliers de morts.</i>
+
+120
+00:09:01,666 --> 00:09:03,750
+<i>T'es sûre</i>
+<i>que Madeleine est plus importante ?</i>
+
+121
+00:09:05,416 --> 00:09:06,833
+<i>- Tu sais que j'ai raison.</i>
+<i>- Je sais.</i>
+
+122
+00:09:06,916 --> 00:09:08,625
+<i>Alors, prends tes responsabilités.</i>
+
+123
+00:09:16,666 --> 00:09:18,791
+<i>Tu n'as pas idée de ce que tu me demandes.</i>
+
+124
+00:09:23,041 --> 00:09:25,625
+<i>Si tu meurs, Madeleine n'aura plus</i>
+<i>personne sur qui compter.</i>
+
+125
+00:09:28,625 --> 00:09:29,625
+<i>Tu te trompes.</i>
+
+126
+00:09:34,000 --> 00:09:35,416
+<i>Elle aura toujours son père.</i>
+
+127
+00:09:48,750 --> 00:09:50,000
+<i>C'est ma fille, Albert.</i>
+
+128
+00:09:51,291 --> 00:09:53,291
+<i>[musique dramatique]</i>
+
+129
+00:09:56,500 --> 00:09:57,541
+<i>C'est notre fille.</i>
+
+130
+00:10:06,791 --> 00:10:09,291
+<i>Tu es vraiment prêt à la sacrifier,</i>
+<i>maintenant ?</i>
+
+131
+00:10:33,708 --> 00:10:35,791
+<i>Vous devriez manger un peu, mademoiselle.</i>
+
+132
+00:10:39,291 --> 00:10:40,750
+<i>[servante frappe à la porte]</i>
+
+133
+00:10:51,666 --> 00:10:53,333
+<i>[reflet] Tu es seule, maintenant.</i>
+
+134
+00:10:54,541 --> 00:10:55,666
+<i>Non.</i>
+
+135
+00:10:56,250 --> 00:10:58,250
+<i>[chuchotements d'esprit]</i>
+
+136
+00:11:06,333 --> 00:11:08,041
+<i>[souffle]</i>
+<i>[bris de verre]</i>
+
+137
+00:11:10,541 --> 00:11:11,875
+<i>[Donatien] Ces rebelles...</i>
+
+138
+00:11:13,291 --> 00:11:14,333
+<i>Je vais...</i>
+
+139
+00:11:18,500 --> 00:11:19,958
+<i>Je vais les garder en vie.</i>
+
+140
+00:11:24,125 --> 00:11:25,708
+<i>Je commencerai par les pieds...</i>
+
+141
+00:11:28,625 --> 00:11:30,333
+<i>et je remonterai tout doucement.</i>
+
+142
+00:11:34,208 --> 00:11:36,625
+<i>Et quand j'en aurai assez</i>
+<i>de les entendre hurler,</i>
+
+143
+00:11:38,416 --> 00:11:40,708
+<i>je dévorerai leurs langues. [rit]</i>
+
+144
+00:11:47,916 --> 00:11:51,333
+<i>Le jour de ta naissance, j'ai su</i>
+<i>que tu ne cesserais de me décevoir.</i>
+
+145
+00:11:53,375 --> 00:11:55,875
+<i>Je l'ai su quand tu as prononcé</i>
+<i>tes premiers mots.</i>
+
+146
+00:11:56,250 --> 00:11:59,041
+<i>Je l'ai su en te voyant grandir</i>
+<i>sans aucune qualité.</i>
+
+147
+00:12:00,833 --> 00:12:03,208
+<i>[Charles] J'ai cru que le privilège</i>
+<i>du sang bleu</i>
+
+148
+00:12:03,666 --> 00:12:06,166
+<i>pourrait guérir ton corps</i>
+<i>et faire grandir ton âme.</i>
+
+149
+00:12:07,708 --> 00:12:10,583
+<i>Je ne réalise qu'aujourd'hui</i>
+<i>l'ampleur de mon égarement.</i>
+
+150
+00:12:11,458 --> 00:12:14,083
+<i>Aucun remède ne guérit de la médiocrité.</i>
+
+151
+00:12:15,666 --> 00:12:16,833
+<i>[Donatien] Taisez-vous.</i>
+
+152
+00:12:20,208 --> 00:12:22,541
+<i>Tu as été incapable</i>
+<i>d'apprendre la patience.</i>
+
+153
+00:12:23,375 --> 00:12:24,458
+<i>Ta vanité,</i>
+
+154
+00:12:24,958 --> 00:12:26,833
+<i>ta lâcheté, tes manigances...</i>
+
+155
+00:12:28,625 --> 00:12:32,250
+<i>Tu es le châtiment que Dieu m'envoie</i>
+<i>pour me punir de mon orgueil.</i>
+
+156
+00:12:33,958 --> 00:12:35,208
+<i>Et je sais aujourd'hui,</i>
+
+157
+00:12:35,500 --> 00:12:38,291
+<i>que ma lignée s'éteindra avec toi</i>
+<i>dans le déshonneur.</i>
+
+158
+00:12:41,583 --> 00:12:43,916
+<i>Vous n'avez pas le droit</i>
+<i>de me parler comme ça.</i>
+
+159
+00:12:46,166 --> 00:12:47,291
+<i>Je suis le Comte !</i>
+
+160
+00:12:49,708 --> 00:12:52,458
+<i>[Charles] Tu as déçu tous les espoirs</i>
+<i>que je plaçais en toi.</i>
+
+161
+00:12:53,708 --> 00:12:54,916
+<i>[Charles] Tu as contaminé...</i>
+
+162
+00:12:55,625 --> 00:12:57,375
+<i>les plus dégénérés de tes amis.</i>
+
+163
+00:13:00,166 --> 00:13:02,708
+<i>Tu as abandonné ta sœur</i>
+<i>aux mains de nos ennemis.</i>
+
+164
+00:13:02,791 --> 00:13:03,875
+<i>Taisez-vous !</i>
+
+165
+00:13:06,041 --> 00:13:07,125
+<i>Et pire encore,</i>
+
+166
+00:13:08,666 --> 00:13:10,166
+<i>tu as trahi ton Roi.</i>
+
+167
+00:13:15,000 --> 00:13:16,250
+<i>Que crois-tu qu'il se passera</i>
+
+168
+00:13:16,333 --> 00:13:18,958
+<i>maintenant que nos ennemis</i>
+<i>connaissent le sang bleu ?</i>
+
+169
+00:13:19,166 --> 00:13:21,750
+<i>Ils se révolteront.</i>
+<i>Ils prendront le château.</i>
+
+170
+00:13:22,666 --> 00:13:24,083
+<i>Même le plus lâche des hommes</i>
+
+171
+00:13:24,166 --> 00:13:26,916
+<i>ne détourne pas le regard</i>
+<i>lorsqu'on dévore ses enfants.</i>
+
+172
+00:13:30,000 --> 00:13:33,250
+<i>Tu vois, mon fils, il y a peu de choses</i>
+<i>où nous sommes tous égaux.</i>
+
+173
+00:13:33,625 --> 00:13:34,875
+<i>Et celle-là en est une.</i>
+
+174
+00:13:36,875 --> 00:13:37,750
+<i>Comtes...</i>
+
+175
+00:13:38,708 --> 00:13:39,625
+<i>Paysans...</i>
+
+176
+00:13:40,875 --> 00:13:44,166
+<i>Tous mus et aveuglés</i>
+<i>par l'amour de nos enfants.</i>
+
+177
+00:13:48,166 --> 00:13:49,166
+<i>Aussi ingrats</i>
+
+178
+00:13:49,541 --> 00:13:50,708
+<i>et minables soient-ils.</i>
+
+179
+00:13:50,791 --> 00:13:51,916
+<i>Taisez-vous !</i>
+
+180
+00:13:53,666 --> 00:13:54,500
+<i>[Charles grogne]</i>
+
+181
+00:13:56,500 --> 00:13:58,625
+<i>Regardez ce que vous m'obligez à faire !</i>
+
+182
+00:13:59,291 --> 00:14:01,125
+<i>Vous êtes content maintenant ?</i>
+
+183
+00:14:01,208 --> 00:14:02,583
+<i>[Charles gémit]</i>
+
+184
+00:14:04,458 --> 00:14:06,083
+<i>J'avais dit de vous taire !</i>
+
+185
+00:14:08,500 --> 00:14:10,041
+<i>Mais vous m'écoutez jamais !</i>
+
+186
+00:14:13,291 --> 00:14:15,041
+<i>Vous ne m'avez jamais écouté.</i>
+
+187
+00:14:15,500 --> 00:14:17,041
+<i>[sanglote]</i>
+
+188
+00:14:17,541 --> 00:14:18,500
+<i>Jamais.</i>
+
+189
+00:14:19,541 --> 00:14:20,666
+<i>Jamais.</i>
+
+190
+00:14:25,041 --> 00:14:26,875
+<i>[musique mélancolique]</i>
+
+191
+00:14:46,500 --> 00:14:48,125
+<i>[cris d'oiseaux]</i>
+
+192
+00:15:17,583 --> 00:15:19,208
+<i>[pas à l'approche]</i>
+
+193
+00:15:28,541 --> 00:15:29,458
+<i>[Ophélie] Élise.</i>
+
+194
+00:15:31,208 --> 00:15:32,041
+<i>Je suis...</i>
+
+195
+00:15:32,750 --> 00:15:33,916
+<i>Je suis désolée.</i>
+
+196
+00:15:35,375 --> 00:15:36,916
+<i>J'ai pas réussi à protéger Madeleine.</i>
+
+197
+00:15:40,041 --> 00:15:42,291
+<i>Tu vas avoir l'occasion</i>
+<i>de tenir ta promesse.</i>
+
+198
+00:15:44,166 --> 00:15:45,958
+<i>[Élise] La guerre sera déclarée.</i>
+
+199
+00:15:46,666 --> 00:15:49,375
+<i>On va profiter de la diversion</i>
+<i>pour faire évader Madeleine.</i>
+
+200
+00:16:03,375 --> 00:16:04,208
+<i>Joseph ?</i>
+
+201
+00:16:09,208 --> 00:16:10,250
+<i>Joseph, regarde-moi.</i>
+
+202
+00:16:16,166 --> 00:16:17,833
+<i>Je sais que tu m'en veux et t'as raison.</i>
+
+203
+00:16:20,875 --> 00:16:23,083
+<i>Un peu tard pour jouer le grand frère,</i>
+<i>tu crois pas ?</i>
+
+204
+00:16:26,500 --> 00:16:28,416
+<i>Tu m'as menti et tu t'es servi de moi.</i>
+
+205
+00:16:30,083 --> 00:16:32,750
+<i>Ça ne t'a jamais effleuré l'esprit</i>
+<i>que tu pouvais me faire confiance.</i>
+
+206
+00:16:33,791 --> 00:16:35,583
+<i>T'as vu ce qui est arrivé</i>
+<i>au père Maxence ?</i>
+
+207
+00:16:36,958 --> 00:16:38,583
+<i>Il nous a aidés, il en est mort.</i>
+
+208
+00:16:39,208 --> 00:16:41,208
+<i>Je voulais pas que tu finisses</i>
+<i>comme lui, c'est tout.</i>
+
+209
+00:16:44,125 --> 00:16:46,291
+<i>Tu penses toujours</i>
+<i>que tu peux tout comprendre,</i>
+
+210
+00:16:46,375 --> 00:16:48,416
+<i>tout expliquer. Mais c'est faux, Joseph.</i>
+
+211
+00:16:50,041 --> 00:16:52,000
+<i>Tu crois que ta science va nous aider ?</i>
+
+212
+00:16:52,291 --> 00:16:53,125
+<i>Hein ?</i>
+
+213
+00:16:55,125 --> 00:16:57,291
+<i>Le seul remède</i>
+<i>contre les sangs-bleus, c'est ça.</i>
+
+214
+00:17:12,958 --> 00:17:16,166
+<i>On s'habitue à sauver des vies</i>
+<i>comme on s'habitue à tuer, Albert.</i>
+
+215
+00:17:18,208 --> 00:17:20,833
+<i>C'est toute la différence</i>
+<i>qu'il y a entre toi et moi.</i>
+
+216
+00:18:31,708 --> 00:18:33,708
+<i>[mastication]</i>
+
+217
+00:18:38,208 --> 00:18:40,291
+<i>Quand allez-vous enterrer votre père ?</i>
+
+218
+00:18:42,708 --> 00:18:44,458
+<i>Qui te dit que je veux l'enterrer ?</i>
+
+219
+00:18:47,625 --> 00:18:50,833
+<i>Pourquoi je me priverais du plaisir</i>
+<i>de voir ce à quoi j'échappe ?</i>
+
+220
+00:18:51,375 --> 00:18:52,375
+<i>Et pour toujours.</i>
+
+221
+00:18:54,333 --> 00:18:56,083
+<i>À mon tour de te poser des questions.</i>
+
+222
+00:18:57,208 --> 00:18:58,750
+<i>As-tu retrouvé ma sœur ?</i>
+
+223
+00:19:00,666 --> 00:19:01,500
+<i>Non ?</i>
+
+224
+00:19:02,375 --> 00:19:03,791
+<i>As-tu retrouvé ma cousine ?</i>
+
+225
+00:19:05,208 --> 00:19:06,041
+<i>Non ?</i>
+
+226
+00:19:06,458 --> 00:19:08,041
+<i>As-tu écrasé les rebelles ?</i>
+
+227
+00:19:08,125 --> 00:19:10,833
+<i>Non.</i>
+
+228
+00:19:11,375 --> 00:19:14,083
+<i>Et pourtant, c'est même pas ça</i>
+<i>qui me chiffonne, Edmond.</i>
+
+229
+00:19:16,000 --> 00:19:16,958
+<i>Tu es un bon chien.</i>
+
+230
+00:19:18,208 --> 00:19:19,916
+<i>Un peu rouillé, mais un bon chien.</i>
+
+231
+00:19:20,625 --> 00:19:22,375
+<i>Et c'est justement ça le problème.</i>
+
+232
+00:19:23,541 --> 00:19:25,416
+<i>Un chien reste fidèle à son maître.</i>
+
+233
+00:19:26,583 --> 00:19:27,791
+<i>Même après sa mort.</i>
+
+234
+00:19:28,666 --> 00:19:31,291
+<i>Pourquoi tu crois que chaque nouveau roi</i>
+<i>qui se respecte</i>
+
+235
+00:19:31,375 --> 00:19:33,458
+<i>change tous ses ministres</i>
+<i>dès qu'il accède au pouvoir ?</i>
+
+236
+00:19:34,833 --> 00:19:36,750
+<i>Je prépare de grandes choses, mon ami.</i>
+
+237
+00:19:37,625 --> 00:19:39,791
+<i>Et j'ai sincèrement envie</i>
+<i>de te donner une chance.</i>
+
+238
+00:19:43,708 --> 00:19:45,708
+<i>Une chance de me prouver ton dévouement.</i>
+
+239
+00:19:46,916 --> 00:19:47,833
+<i>Alors, Edmond,</i>
+
+240
+00:19:48,333 --> 00:19:49,291
+<i>vas-tu m'obéir ?</i>
+
+241
+00:19:52,000 --> 00:19:53,041
+<i>Vous êtes le comte.</i>
+
+242
+00:19:54,500 --> 00:19:56,041
+<i>C'est mon rôle de vous obéir.</i>
+
+243
+00:19:57,833 --> 00:19:58,666
+<i>[Donatien] Bien.</i>
+
+244
+00:20:00,333 --> 00:20:01,250
+<i>Voyons ça.</i>
+
+245
+00:20:04,166 --> 00:20:05,083
+<i>Va chercher.</i>
+
+246
+00:20:13,541 --> 00:20:15,583
+<i>Tu oublies un détail, Edmond.</i>
+
+247
+00:20:17,041 --> 00:20:18,750
+<i>[Donatien]</i>
+<i>Un chien marche à quatre pattes.</i>
+
+248
+00:20:20,291 --> 00:20:21,291
+<i>À genoux.</i>
+
+249
+00:20:22,375 --> 00:20:24,125
+<i>[aboie]</i>
+
+250
+00:20:24,750 --> 00:20:26,416
+<i>[rit]</i>
+
+251
+00:20:35,458 --> 00:20:37,458
+<i>[Pérouse gémit]</i>
+
+252
+00:20:37,625 --> 00:20:39,333
+<i>Ne sois pas si surpris, Edmond.</i>
+
+253
+00:20:40,416 --> 00:20:42,041
+<i>C'est juste la loi de la meute.</i>
+
+254
+00:20:42,791 --> 00:20:44,125
+<i>[coups]</i>
+
+255
+00:20:45,500 --> 00:20:47,166
+<i>Lorsque le dominant faiblit,</i>
+
+256
+00:20:47,708 --> 00:20:49,916
+<i>les autres s'empressent</i>
+<i>de prendre sa place.</i>
+
+257
+00:20:52,625 --> 00:20:54,041
+<i>[Donatien] Débarrassez-vous de lui.</i>
+
+258
+00:20:58,541 --> 00:20:59,791
+<i>[Pérouse] Je reviendrai !</i>
+
+259
+00:21:00,333 --> 00:21:02,416
+<i>Je te tuerai ! Sale infirme !</i>
+
+260
+00:21:02,500 --> 00:21:03,500
+<i>[Donatien] Au revoir.</i>
+
+261
+00:21:04,833 --> 00:21:07,375
+<i>[Donatien]</i><span style="style2"> Tu sais,</i>
+<span style="style2">la mort n'est qu'un début.</i>
+
+262
+00:21:38,791 --> 00:21:40,791
+<i>[urine]</i>
+
+263
+00:21:58,458 --> 00:21:59,375
+<i>[Donatien] Messieurs.</i>
+
+264
+00:22:01,333 --> 00:22:02,541
+<i>Soyez les bienvenus.</i>
+
+265
+00:22:10,166 --> 00:22:13,375
+<i>Avez-vous déjà visité Versailles,</i>
+<i>mes amis ?</i>
+
+266
+00:22:18,166 --> 00:22:19,000
+<i>[Donatien] Non ?</i>
+
+267
+00:22:22,000 --> 00:22:23,666
+<i>[Donatien] Mon père m'y a emmené.</i>
+
+268
+00:22:23,750 --> 00:22:25,041
+<i>[homme] Et où est-il ?</i>
+
+269
+00:22:27,625 --> 00:22:28,541
+<i>Votre père.</i>
+
+270
+00:22:29,500 --> 00:22:30,333
+<i>Où est-il ?</i>
+
+271
+00:22:31,000 --> 00:22:31,958
+<i>Dans son bureau.</i>
+
+272
+00:22:34,541 --> 00:22:36,916
+<i>[Donatien] Vous brûlez d'envie</i>
+<i>de le rejoindre.</i>
+
+273
+00:22:38,791 --> 00:22:42,208
+<i>Plus tard, je m'assurerai personnellement</i>
+<i>que votre vœu soit exaucé.</i>
+
+274
+00:22:45,041 --> 00:22:46,541
+<i>Je disais donc : Versailles.</i>
+
+275
+00:22:48,333 --> 00:22:49,416
+<i>J'étais très jeune.</i>
+
+276
+00:22:50,583 --> 00:22:54,000
+<i>Mais je me souviens y avoir rencontré</i>
+<i>la plus étrange des créatures.</i>
+
+277
+00:22:56,375 --> 00:22:57,458
+<i>Le courtisan.</i>
+
+278
+00:22:57,916 --> 00:23:00,000
+<i>[rient]</i>
+
+279
+00:23:02,375 --> 00:23:04,000
+<i>Le courtisan ne doit jamais avoir raison.</i>
+
+280
+00:23:06,333 --> 00:23:07,916
+<i>Il ne doit jamais avoir d'avis.</i>
+
+281
+00:23:10,458 --> 00:23:14,208
+<i>Il s'entraîne sans relâche</i>
+<i>dans l'art le plus difficile de tous.</i>
+
+282
+00:23:18,625 --> 00:23:19,500
+<i>Ramper.</i>
+
+283
+00:23:22,916 --> 00:23:24,458
+<i>[Donatien] Mais vous n'êtes pas ainsi.</i>
+
+284
+00:23:26,291 --> 00:23:28,291
+<i>Vous êtes l'aristocratie de mon comté.</i>
+
+285
+00:23:28,750 --> 00:23:32,166
+<i>Vous êtes la fine fleur</i>
+<i>de la noblesse du royaume.</i>
+
+286
+00:23:32,250 --> 00:23:33,333
+<i>Et moi...</i>
+
+287
+00:23:37,000 --> 00:23:38,666
+<i>Et moi, j'ai besoin de vous.</i>
+
+288
+00:23:42,916 --> 00:23:44,291
+<i>Êtes-vous prêts à m'aider ?</i>
+
+289
+00:23:49,000 --> 00:23:51,250
+<i>J'ai le plaisir de vous annoncer</i>
+<i>mon mariage !</i>
+
+290
+00:23:51,958 --> 00:23:53,166
+<i>Dans trois jours,</i>
+
+291
+00:23:53,875 --> 00:23:55,541
+<i>j'épouserai ma chère cousine.</i>
+
+292
+00:23:55,666 --> 00:23:57,208
+<i>[tous s'étonnent]</i>
+
+293
+00:24:01,583 --> 00:24:03,083
+<i>Madeleine de Montargis.</i>
+
+294
+00:24:03,166 --> 00:24:04,333
+<i>[exclamations]</i>
+
+295
+00:24:04,458 --> 00:24:07,125
+<i>- Mais c'est encore une enfant.</i>
+<i>- [Donatien] Voilà ma promesse.</i>
+
+296
+00:24:07,625 --> 00:24:08,750
+<i>Ce jour-là,</i>
+
+297
+00:24:09,500 --> 00:24:10,500
+<i>avec votre aide,</i>
+
+298
+00:24:12,291 --> 00:24:14,083
+<i>ma sœur Marie sera à mes côtés.</i>
+
+299
+00:24:15,916 --> 00:24:18,583
+<i>Puisse ce moment</i>
+<i>sceller les liens qui nous unissent.</i>
+
+300
+00:24:21,125 --> 00:24:22,166
+<i>Pour toujours.</i>
+
+301
+00:24:23,375 --> 00:24:25,375
+<i>[musique palpitante]</i>
+
+302
+00:25:13,541 --> 00:25:15,125
+<i>[Donatien] Le temps est venu...</i>
+
+303
+00:25:15,875 --> 00:25:17,708
+<i>de me constituer une armée.</i>
+
+304
+00:25:38,458 --> 00:25:39,500
+<i>Élise.</i>
+
+305
+00:25:40,708 --> 00:25:43,583
+<i>[Marie] Élise, aide-moi. S'il te plaît.</i>
+
+306
+00:25:46,416 --> 00:25:47,333
+<i>[Élise] Marie ?</i>
+
+307
+00:25:49,375 --> 00:25:50,583
+<i>Qu'est-ce que vous faites ?</i>
+
+308
+00:25:51,750 --> 00:25:52,666
+<i>Elle est malade.</i>
+
+309
+00:25:53,375 --> 00:25:54,666
+<i>[Joseph] Elle a été contaminée.</i>
+
+310
+00:25:55,541 --> 00:25:58,208
+<i>Et son corps ne s'est toujours pas adapté</i>
+<i>à la maladie.</i>
+
+311
+00:25:59,041 --> 00:26:01,208
+<i>Qu'est-ce que vous allez lui faire,</i>
+<i>Joseph ?</i>
+
+312
+00:26:02,125 --> 00:26:03,791
+<i>J'ai besoin de prélever son sang.</i>
+
+313
+00:26:03,875 --> 00:26:04,791
+<i>[Élise] Pourquoi ?</i>
+
+314
+00:26:06,500 --> 00:26:08,416
+<i>Les hommes ne sont pas égaux</i>
+<i>face à la maladie.</i>
+
+315
+00:26:08,500 --> 00:26:11,541
+<i>Il existe des individus qui y résistent</i>
+<i>de manière naturelle.</i>
+
+316
+00:26:12,833 --> 00:26:14,666
+<i>Si on trouve un individu immune,</i>
+
+317
+00:26:14,750 --> 00:26:17,458
+<i>on pourra utiliser son sang</i>
+<i>pour en extraire un vaccin.</i>
+
+318
+00:26:19,083 --> 00:26:20,583
+<i>[Joseph] Faites-moi confiance.</i>
+
+319
+00:26:20,958 --> 00:26:23,125
+<i>- [Joseph] C'est une théorie, mais...</i>
+<i>- [gémit]</i>
+
+320
+00:26:23,208 --> 00:26:24,500
+<i>c'est notre seul espoir.</i>
+
+321
+00:26:35,041 --> 00:26:36,125
+<i>[gémit]</i>
+
+322
+00:26:42,833 --> 00:26:44,166
+<i>[Marie crie]</i>
+
+323
+00:27:05,125 --> 00:27:06,166
+<i>Aide-moi.</i>
+
+324
+00:27:06,750 --> 00:27:07,708
+<i>Aide-moi.</i>
+
+325
+00:27:16,083 --> 00:27:18,083
+<i>[pas à l'approche]</i>
+
+326
+00:27:37,416 --> 00:27:40,541
+<i>Il paraît que ça porte malheur</i>
+<i>de voir sa promise dans sa robe.</i>
+
+327
+00:27:41,708 --> 00:27:44,375
+<i>Mais j'ai cessé de croire</i>
+<i>aux superstitions il y a longtemps.</i>
+
+328
+00:27:45,416 --> 00:27:47,666
+<i>Ça ira vite, tu ne sentiras presque rien.</i>
+
+329
+00:27:48,791 --> 00:27:49,833
+<i>[Donatien] Chut.</i>
+
+330
+00:27:51,208 --> 00:27:52,458
+<i>C'est inutile.</i>
+
+331
+00:27:53,458 --> 00:27:55,000
+<i>Personne ne viendra t'aider.</i>
+
+332
+00:27:56,166 --> 00:27:57,416
+<i>Ils t'ont abandonnée.</i>
+
+333
+00:27:58,666 --> 00:27:59,500
+<i>[Donatien] Tous.</i>
+
+334
+00:28:00,541 --> 00:28:01,958
+<i>Tu n'as que moi, à présent.</i>
+
+335
+00:28:03,708 --> 00:28:05,208
+<i>Ma douce Madeleine.</i>
+
+336
+00:28:06,666 --> 00:28:08,916
+<i>Mon père n'a jamais réalisé</i>
+<i>à quel point tu étais maligne.</i>
+
+337
+00:28:10,125 --> 00:28:13,333
+<i>Se cacher derrière le masque de la folie,</i>
+<i>mais quelle ruse magnifique.</i>
+
+338
+00:28:17,125 --> 00:28:18,041
+<i>Fais-le.</i>
+
+339
+00:28:19,083 --> 00:28:20,125
+<i>[Madeleine suffoque]</i>
+
+340
+00:28:20,625 --> 00:28:21,625
+<i>[souffle mystérieux]</i>
+
+341
+00:28:23,875 --> 00:28:25,583
+<i>[chuchotements d'esprit]</i>
+
+342
+00:28:53,166 --> 00:28:54,458
+<i>[Madeleine] Pauvre idiot.</i>
+
+343
+00:28:56,750 --> 00:28:58,041
+<i>Tu comprends maintenant ?</i>
+
+344
+00:29:00,625 --> 00:29:02,041
+<i>Tu peux rien contre moi.</i>
+
+345
+00:29:08,708 --> 00:29:10,083
+<i>Emmène-la dans sa chambre.</i>
+
+346
+00:29:12,500 --> 00:29:13,625
+<i>[Donatien] Enferme-la.</i>
+
+347
+00:29:16,458 --> 00:29:18,041
+<i>Personne ne doit l'approcher.</i>
+
+348
+00:29:42,875 --> 00:29:44,458
+<i>[claquement de porte]</i>
+
+349
+00:29:49,916 --> 00:29:51,916
+<i>[gémissements]</i>
+
+350
+00:30:09,833 --> 00:30:11,833
+<i>[musique de suspense]</i>
+
+351
+00:31:05,208 --> 00:31:07,791
+<i>[Joseph] C'est pas possible,</i>
+<i>c'est notre dernier échantillon.</i>
+
+352
+00:31:20,916 --> 00:31:22,166
+<i>Ils sont tous contaminés.</i>
+
+353
+00:31:23,833 --> 00:31:25,291
+<i>Il faut continuer à chercher.</i>
+
+354
+00:31:27,416 --> 00:31:29,000
+<i>C'était juste le premier essai.</i>
+
+355
+00:31:31,041 --> 00:31:32,416
+<i>On peut mélanger les échantillons.</i>
+
+356
+00:31:32,500 --> 00:31:34,916
+<i>[Joseph] Ça sert à rien,</i>
+<i>aucun d'entre nous n'est immune.</i>
+
+357
+00:31:38,000 --> 00:31:40,166
+<i>Peut-être qu'un tel cas n'existe même pas.</i>
+
+358
+00:31:41,291 --> 00:31:44,083
+<i>[Joseph]</i><span style="style2"> Et sans ça,</i>
+<span style="style2">on ne pourra protéger personne.</i>
+
+359
+00:31:44,166 --> 00:31:45,666
+<i>[aboiements]</i>
+
+360
+00:31:52,333 --> 00:31:54,333
+<i>[conversations au loin]</i>
+
+361
+00:32:13,583 --> 00:32:15,583
+<i>[discussions animées au loin]</i>
+
+362
+00:32:17,625 --> 00:32:19,625
+<i>[cris et rires]</i>
+
+363
+00:32:29,541 --> 00:32:32,500
+<i>[rires et conversations animées]</i>
+
+364
+00:32:41,416 --> 00:32:44,416
+<i>[femme] Bonsoir, mes seigneurs.</i>
+<i>Vous désirez boire quelque chose ?</i>
+
+365
+00:32:47,625 --> 00:32:49,625
+<i>[femme] Qu'est-ce que vous faites ?</i>
+
+366
+00:32:49,708 --> 00:32:51,083
+<i>Arrêtez ! Non !</i>
+
+367
+00:32:51,166 --> 00:32:52,166
+<i>[cris de panique]</i>
+
+368
+00:32:52,250 --> 00:32:53,583
+<i>[femme] Monseigneur !</i>
+
+369
+00:32:56,666 --> 00:32:57,625
+<i>[homme] Aidez-moi !</i>
+
+370
+00:32:57,875 --> 00:32:59,875
+<i>[hurlements]</i>
+
+371
+00:33:03,958 --> 00:33:05,958
+<i>- [chair déchirée]</i>
+<i>- [hurlement]</i>
+
+372
+00:33:24,416 --> 00:33:25,875
+<i>[femme crie]</i>
+
+373
+00:33:27,291 --> 00:33:29,291
+<i>[hurlements]</i>
+
+374
+00:33:38,500 --> 00:33:40,500
+<i>[hurlements]</i>
+<i>[pleurs de bébé]</i>
+
+375
+00:33:58,458 --> 00:33:59,375
+<i>[homme] À l'aide !</i>
+
+376
+00:34:01,166 --> 00:34:02,083
+<i>[homme] À l'aide !</i>
+
+377
+00:34:04,791 --> 00:34:06,333
+<i>À l'aide !</i>
+
+378
+00:34:08,125 --> 00:34:09,041
+<i>[homme] Aidez-nous.</i>
+
+379
+00:34:19,291 --> 00:34:20,375
+<i>[femme] Des nobles...</i>
+
+380
+00:34:20,458 --> 00:34:23,791
+<i>Ils sont devenus fous !</i>
+<i>Ils nous ont attaqués à la taverne.</i>
+
+381
+00:34:23,875 --> 00:34:25,708
+<i>- [homme] Il ne reste que nous.</i>
+<i>- Mon Dieu.</i>
+
+382
+00:34:26,375 --> 00:34:27,708
+<i>Ça a commencé.</i>
+
+383
+00:34:44,000 --> 00:34:46,000
+<i>[musique douce]</i>
+
+384
+00:35:17,666 --> 00:35:18,958
+<i>[Oka] Nous devons fuir.</i>
+
+385
+00:35:20,208 --> 00:35:21,083
+<i>[Oka] Maintenant.</i>
+
+386
+00:35:25,500 --> 00:35:27,250
+<i>Peut-être que nous devons fuir, en effet.</i>
+
+387
+00:35:30,666 --> 00:35:32,166
+<i>Mais une chose est sûre,</i>
+
+388
+00:35:33,541 --> 00:35:34,500
+<i>si nous partons,</i>
+
+389
+00:35:34,583 --> 00:35:37,875
+<i>la seule chose que nous pourrons espérer</i>
+<i>sera de survivre en nous cachant.</i>
+
+390
+00:35:41,375 --> 00:35:44,250
+<i>Mais nous verrons se propager</i>
+<i>l'épidémie la plus terrible,</i>
+
+391
+00:35:45,083 --> 00:35:48,291
+<i>la plus meurtrière et la plus injuste</i>
+<i>que l'humanité ait jamais connue.</i>
+
+392
+00:35:49,625 --> 00:35:50,875
+<i>[Joseph] Ou nous luttons.</i>
+
+393
+00:35:53,166 --> 00:35:54,291
+<i>Non pas pour nous.</i>
+
+394
+00:35:54,625 --> 00:35:55,541
+<i>Ou pour nos vies.</i>
+
+395
+00:35:55,833 --> 00:35:57,916
+<i>Mais pour une cause</i>
+<i>bien plus grande encore.</i>
+
+396
+00:35:59,791 --> 00:36:00,625
+<i>Les autres.</i>
+
+397
+00:36:02,375 --> 00:36:04,000
+<i>Ceux que nous ne connaissons pas</i>
+
+398
+00:36:04,083 --> 00:36:06,083
+<i>et qui n'apprendront jamais notre nom.</i>
+
+399
+00:36:08,666 --> 00:36:11,083
+<i>[Joseph] Nos ennemis sont très riches,</i>
+<i>très puissants.</i>
+
+400
+00:36:11,708 --> 00:36:13,666
+<i>Mais je vais vous faire une confidence.</i>
+
+401
+00:36:16,333 --> 00:36:17,583
+<i>Ils nous craignent.</i>
+
+402
+00:36:18,958 --> 00:36:23,083
+<i>Parce qu'ils savent que si nous unissons</i>
+<i>nos forces, nous sommes plus nombreux.</i>
+
+403
+00:36:27,166 --> 00:36:29,541
+<i>Assez nombreux pour essayer</i>
+<i>d'empêcher le pire.</i>
+
+404
+00:36:32,333 --> 00:36:33,583
+<i>[Albert] Qui veut rester ?</i>
+
+405
+00:36:39,250 --> 00:36:40,250
+<i>Et se battre.</i>
+
+406
+00:36:43,166 --> 00:36:44,000
+<i>Moi.</i>
+
+407
+00:36:48,291 --> 00:36:49,416
+<i>Je vote pour rester.</i>
+
+408
+00:36:53,875 --> 00:36:54,708
+<i>Moi aussi.</i>
+
+409
+00:36:57,250 --> 00:36:58,958
+<i>[Katell] Tu sais ce que ça signifie ?</i>
+
+410
+00:37:03,916 --> 00:37:05,666
+<i>Ce sera le début d'une révolution.</i>
+

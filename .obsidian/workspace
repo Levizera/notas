@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2c1200fe2cc62a09",
+        "id": "82475a6fb51933bc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coisas para estudar - áreas de interesse.md",
+            "file": "Francês.md",
             "mode": "preview",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Coisas para estudar - áreas de interesse.md",
+            "file": "Francês.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -72,8 +72,9 @@
     ],
     "currentTab": 0
   },
-  "active": "2c1200fe2cc62a09",
+  "active": "82475a6fb51933bc",
   "lastOpenFiles": [
+    "Phrases Françaises.md",
     "Coisas para estudar - áreas de interesse.md",
     "História/Idade Média/Idade Média - Coluna.md",
     "Tópicos/Se podemos pedir diretamente a Deus, por que pedir a intercessão dos Santos?.md",
@@ -82,7 +83,6 @@
     "Poemas/Soneto 116.md",
     "Poemas/Shakespeare.md",
     "Poemas/Poesia.md",
-    "História/Idade Média/Conteúdo/Peste Negra.md",
-    "História/Idade Média/Conteúdo/Idade Média - Coluna.md"
+    "História/Idade Média/Conteúdo/Peste Negra.md"
   ]
 }
