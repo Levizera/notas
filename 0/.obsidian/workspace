@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "5fe5d25744923620",
+    "type": "split",
+    "children": [
+      {
+        "id": "615c75f40174c7e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Toda experiência é válida.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6f2c3238253e25c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3a9ccc263f5c6c7c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2835ed56a5e58c48",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "17bd681b65fb4b23",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9f63ef0d5446dc09",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cf27734af9c13dfd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60b6c87f63f795fa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Toda experiência é válida.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6d3dcf0d3c9c3e0c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Toda experiência é válida.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e6ed1ef5bd44bd3d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Toda experiência é válida.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "615c75f40174c7e5",
+  "lastOpenFiles": [
+    "Hegemonia cultural.md",
+    "Que quer a mulher?.md",
+    "Papel no ocidente.md",
+    "Kobe Beef.md"
+  ]
+}

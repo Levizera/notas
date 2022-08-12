@@ -1,8 +1,0 @@
-{
-  "promptDelete": false,
-  "trashOption": "local",
-  "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "./",
-  "defaultViewMode": "preview"
-}

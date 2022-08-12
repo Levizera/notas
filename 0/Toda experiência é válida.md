@@ -1,0 +1,3 @@
+Às vezes, pensamos que algo é ruim ou tosco e acabamos por não consumir, por não ver o que é, paramos na aparência. Mas a verdade é que toda experiência é valida. Os maus exemplos também podem te ajudar a chegar a algum lugar, pois eles te indicaram o que não deve ser feito. 
+
+Até as obras de pspseudointelectuais devem ser lidas. As obras das piores pessoas que já passaram na terra devem ser visitadas e, também, compreendidas, de uma certa forma. 

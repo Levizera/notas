@@ -7,12 +7,8 @@
         "id": "82475a6fb51933bc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Francês.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -58,7 +54,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Francês.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,6 +69,7 @@
   },
   "active": "82475a6fb51933bc",
   "lastOpenFiles": [
+    "Francês/YASUSHI INOUE (1907-1991) – Un siècle d'écrivains [1997].md",
     "Phrases Françaises.md",
     "Coisas para estudar - áreas de interesse.md",
     "História/Idade Média/Idade Média - Coluna.md",
@@ -82,7 +78,6 @@
     "Tópicos/Estudo da história.md",
     "Poemas/Soneto 116.md",
     "Poemas/Shakespeare.md",
-    "Poemas/Poesia.md",
-    "História/Idade Média/Conteúdo/Peste Negra.md"
+    "Poemas/Poesia.md"
   ]
 }
