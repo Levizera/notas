@@ -1,1 +1,0 @@
-Hegemonia cultural é o controle das instituições; escolas, faculdades, universidades, jornais, emissoras etc., por exemplo.

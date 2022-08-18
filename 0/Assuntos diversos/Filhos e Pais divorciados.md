@@ -1,0 +1,1 @@
+Filhos de pais divorciados são como dois pólos norte, não sabem pra onde vão.

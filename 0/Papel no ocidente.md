@@ -1,1 +1,0 @@
-A Espanha foi o primeiro lugar do ocidente a chegar o papel.

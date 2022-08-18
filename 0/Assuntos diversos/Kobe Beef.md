@@ -1,0 +1,3 @@
+O Kobe Beef vem da província japonesa chamada Kobe. Naquela época quem comia carne eram somente os nobres, não por que apreciavam a carne em si, o sabor, mas por suas propriedades medicinais. Quando alguns ingleses fizeram turismo na região de Tajima, no Japão, e provaram a carne que eles produziam, foi que começou a prática de apreciar essa carne de forma gastronômica. Isso aumentou o turismo na região e cada vez mais ingleses começaram a ir ao Japão para provar essa carne. 
+
+O boi é alimentado à base de leite e ervas/gramas durante 7 meses. O boi recebe massagem todos os dias para que o marmoreio da carne fique bom. 

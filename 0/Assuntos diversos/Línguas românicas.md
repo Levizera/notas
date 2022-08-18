@@ -1,0 +1,1 @@
+As línguas românicas derivam dos vários dialectos do latim vulgar que haviam em cada região. 

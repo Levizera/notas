@@ -1,0 +1,1 @@
+O que eu sei sobre o cristianismo é apenas uma  ínfima fatia do que ele realmente é. E o cristianismo não se resume ao que eu sei sobre ele; eu que precisarei expandir minha consciência para tentar apreender o máximo possível sobre ele. Nunca saberei o bastante, pois sempre haverá mais uma parte a ser abarcada.

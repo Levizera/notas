@@ -1,0 +1,1 @@
+Antes de começar o estudo sobre a história do Brasil, ler a literatura brasileira - em ordem cronológica, caso queira - para somente depois preencher com a narrativa histórica.

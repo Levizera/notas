@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "615c75f40174c7e5",
+        "id": "0cb395a977953f43",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Toda experiência é válida.md",
-            "mode": "source",
+            "file": "Idade média/00 - Características da Idade Média.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Toda experiência é válida.md",
+            "file": "Idade média/00 - Características da Idade Média.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Toda experiência é válida.md",
+            "file": "Idade média/00 - Características da Idade Média.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,18 +106,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Toda experiência é válida.md"
+            "file": "Idade média/00 - Características da Idade Média.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "615c75f40174c7e5",
+  "active": "0cb395a977953f43",
   "lastOpenFiles": [
-    "Hegemonia cultural.md",
-    "Que quer a mulher?.md",
-    "Papel no ocidente.md",
-    "Kobe Beef.md"
+    "2022-08-18.md",
+    "Idade média/00 - Características da Idade Média.md",
+    "Assuntos diversos/Estudo de história.md",
+    "Biblioteca Brasil/Eduardo Bueno.md",
+    "Biblioteca Brasil/Livros e autores.md",
+    "Biblioteca Brasil/Bibliografia sobre o Brasil.md",
+    "Biblioteca Brasil/Personagens importantes.md",
+    "Assuntos diversos/Educação nos séculos IX, X, XI.md",
+    "Assuntos diversos/Que quer a mulher?.md",
+    "História do Brasil/História do Brasil.md"
   ]
 }
