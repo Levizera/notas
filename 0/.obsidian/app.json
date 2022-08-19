@@ -1,4 +1,6 @@
 {
   "newFileLocation": "current",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./mídias"
 }
