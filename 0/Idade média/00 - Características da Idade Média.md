@@ -1,12 +1,12 @@
 ## Características Gerais
 ### Começo e fim
- A idade média começa no século V com a queda de Roma e termina no século XV com a queda de Constantinopla.
+ A idade média começa no século V com a queda de Roma e termina no século XV com a queda de [[Constantinopla]].
 
 ### Empréstimos
 O empréstimo de dinheiro era proibido na idade média, pois era considerado como o pecado da usuria. 
 
 ### [[00 - Feudalismo|Feudalismo]]
-- Sistema de herança dos Francos;
+- Sistema de herança dos [[Francos]];
 - Nova onda de invasões;
 - Enclaves;
 - Povos sem nações e e exércitos;
@@ -16,9 +16,9 @@ O empréstimo de dinheiro era proibido na idade média, pois era considerado com
 ---
 ## Cinco fases da idade média
 #### Primeira Fase - séc. X - IX
-- Reinos bárbaros conquistando a Europa;
-- A construção do Império Bizantino;
-- Advento do Islã.
+- [[Reinos Bárbaros]] conquistando a Europa;
+- A construção do [[Império Bizantino]];
+- Advento do [[Islã]].
 
 #### Segunda Fase - séc. 
 

@@ -1,7 +1,7 @@
 [Link do vídeo]( https://youtu.be/wRjNPj5M5kU)
 
 ## Tópicos gerais
-- Batalha de Hampton Roads, 1862
+- [[Batalha de Hampton Roads]], 1862
 - *Livro:* Sailing alone around the world, Joshua Slocum. 
 
 ## Primeiros registros
@@ -16,18 +16,18 @@ Em 1500 a.C. se tem os primeiros registros de barcos que enfrentaram alto mar, p
 Foi a viagem de Odisseu, que permaneceu 10 anos em alto mar; história essa que deu origem à Odisseia e que mostra que naquela época eles já se orientavam pelas estrelas. 
 
 ### Pais da navegação
-Os Fenícios foi um povo muito importante na historia da navegação, pois desenvolveram bastante a técnica da vela. Povo esse que deu origem aos Cartagineses - que também foram importantes na história da navegação.
+Os [[Fenícios]] foi um povo muito importante na historia da navegação, pois desenvolveram bastante a técnica da vela. Povo esse que deu origem aos [[Cartagineses]] - que também foram importantes na história da navegação.
 
 ### Grande inovação !
-No século VIII houve uma grande inovação no mundo da navegação: a quilha. Que, acredite ou não, foi invenção dos Vikings. 
+No século VIII houve uma grande inovação no mundo da navegação: a quilha. Que, acredite ou não, foi invenção dos [[Vikings]]. 
 	A [[quilha]] serve basicamente para dar mais estabilidade ao barco. 
 ![[Pasted image 20220819200226.png]]
 
 ### Fim dos barcos a remo
-Foi em 1571 (séc. XVI), na Batalha de Lepanto, onde se percebeu que os barcos a remo não eram lá tão bons assim, pois era bem difícil de manobrá-los. 
+Foi em 1571 (séc. XVI), na [[Batalha de Lepanto]], onde se percebeu que os barcos a remo não eram lá tão bons assim, pois era bem difícil de manobrá-los. 
 
 ### Yates - ou barcos de laser
-Foi no século XVII que surgiram os primeiros barcos de laser. Pelo que se sabe, foi a pedido do rei da Inglaterra, Charles I, que foi feito o primeiro barco para laser. 
+Foi no século XVII que surgiram os primeiros barcos de laser. Pelo que se sabe, foi a pedido do rei da Inglaterra, [[Charles I]], que foi feito o primeiro barco para laser. 
 
 ### A idade de ouro das velas
 Foi em no século XIX, mais especificamente no ano de 1850, que a engenheira de barcos chegou em seu ápice. Barcos muito velozes, ótimas construções e alta tecnologia de navegação. 

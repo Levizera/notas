@@ -1,7 +1,12 @@
 ## Questões
 - Que é a alma humana?
-- Qual a origem da Ave Maria?
+- Origem da devoção à Virgem Maria e seus efeitos na história. 
+	- Por que Maria é importante?
+	- Por que ser devoto dela? 
+	- Quais os efeitos dessa devoção?
+	- Qual a origem e efeitos do rosário? 
 - 
+
 
 
 ## Tópicos
