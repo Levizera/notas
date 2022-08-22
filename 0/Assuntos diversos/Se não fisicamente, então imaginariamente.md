@@ -1,0 +1,1 @@
+Se você não consegue se livrar fisicamente de um vício, então que o faça imaginariamente. Tente dar uma forma ao seu vício; imagine-se sem ele, ou talvez tente fazer a experiência inversa - imagine-se no mais fundo do poço. Se imagine na mais profunda merda e que isso foi causado pelo seu vício; depois imagine que você tenha se libertado completamente dele. 

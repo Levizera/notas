@@ -4,7 +4,7 @@
 A grande era dos descobrimentos começou em Portugal após eles atacarem Ceuta, no séc. XV (1415).
 
 ## Pai da navegação
-Infante Dom Henrique foi o pai da navegação, e criou a Escola de Sagres.
+[[Infante Dom Henrique]] foi o pai da navegação, e criou a Escola de Sagres.
 
 Gil Eanes, Bartolomeu Dias, Fernão de Magalhães, Duarte Pacheco Pereira, Vasco da Gama e Cristóvão Colombo foram discípulos de Infante Dom Henrique. 
 
