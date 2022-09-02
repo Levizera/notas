@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Portugal/Reis de Portugal - Cronologia.md",
+            "file": "Latim/Genesis 1-1.md",
             "mode": "preview",
             "source": false
           }
@@ -36,7 +36,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#PePauloRicardo",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Portugal/Reis de Portugal - Cronologia.md",
+            "file": "Latim/Genesis 1-1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Portugal/Reis de Portugal - Cronologia.md",
+            "file": "Latim/Genesis 1-1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Portugal/Reis de Portugal - Cronologia.md"
+            "file": "Latim/Genesis 1-1.md"
           }
         }
       }
@@ -115,15 +115,15 @@
   },
   "active": "0cb395a977953f43",
   "lastOpenFiles": [
-    "Questões & Tópicos.md",
-    "Idade média/00 - Características da Idade Média.md",
-    "Portugal/Reis de Portugal - Cronologia.md",
-    "História das navegações/Figuras Importantes/Infante Dom Henrique.md",
-    "Assuntos diversos/Estudo de história.md",
-    "História das navegações/Uma breve história da navegação.md",
-    "História das navegações/As grandes Navegações e a Era dos Descobrimentos.md",
-    "Idade média/Feudalismo/00 - Feudalismo.md",
-    "Assuntos diversos/Herança Grega.md",
-    "Assuntos diversos/História da literatura ocidental.md"
+    "Latim/Genesis 1-1.md",
+    "Music/Essência da música - TradTalk/Essência da música - 01.md",
+    "Church history/00- Índex de aulas.md",
+    "Church history/Aula 05/A Igreja dos mártires.md",
+    "Church history/Aula 04/A Igreja sub-apostólica.md",
+    "Church history/Aula 03/A origem das Sagradas Escrituras.md",
+    "Church history/Aula 03/Santo Inácio de Antioquia.md",
+    "Church history/Aula 02/Nascimento da Igreja.md",
+    "Church history/Aula 01/Introdução à História da igreja antiga.md",
+    "Church history/Aula 02/Viagens missionárias de são Paulo.md"
   ]
 }

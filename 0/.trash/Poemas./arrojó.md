@@ -1,0 +1,1 @@
+Jogou; atirou; lançou.
